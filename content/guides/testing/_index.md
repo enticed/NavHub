@@ -40,13 +40,13 @@ Testing is a critical part of open source software - particularly in crypto wher
 {{< text_block
   title="From NavHub to the Community Fund" >}}
     <br>
-    1. If you think you have a greate idea and wish to delivery a major improvement to to the NavCoin ecosystem, it would be greate to communicate with other NavCoin members,and submit your idea to the <a href="https://discord.gg/mHxpeD4" target=e class="a-guide">Discord Testing Channel</a>.
+    1. If you think you have a great idea and wish to delivery a major improvement to to the NavCoin ecosystem, it would be great to communicate with other NavCoin members,and submit your idea to the <a href="https://discord.gg/mHxpeD4" target=e class="a-guide">Discord Testing Channel</a>.
     <br><br>
-    2. Disuss and refine your news ideas with the community members and get some buy-ins.
+    2. Disuss and refine your new ideas with the community members and get some buy-in.
     <br><br>
-    3. Pulish the polished idea onto <a href="https://collab.navcoin.org/dashboard" class="a-guide" target=e>Nav Collab</a>.
+    3. Publish the polished idea onto <a href="https://collab.navcoin.org/dashboard" class="a-guide" target=e>Nav Collab</a>.
     <br><br>
-    4. Great! Now you can apply for the NavCoin Community Fund with has a link to you the project on Nav Collab and get paid for working and deliverying you ideas. <a href="https://navcoin.org/en/community-fund/" target=e class="a-guide">Check out the community fund page here</a>.
+    4. Great! Now you can apply for the NavCoin Community Fund with has a link to you the project on Nav Collab and get paid for working and delivering you ideas. <a href="https://navcoin.org/en/community-fund/" target=e class="a-guide">Check out the community fund page here</a>.
 {{< /text_block >}}
 
 <img src="/images/guides/workflow.png" style="display: flex; max-width: 700px;margin: 0 auto; margin-top: 30px;">
